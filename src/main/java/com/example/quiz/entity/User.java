@@ -6,7 +6,6 @@ import lombok.Setter;
 
 /**
  * Represents a user in the quiz application.
- *
  * This class is annotated with {@link Entity} to indicate that it is a JPA entity.
  * It uses {@link Getter} and {@link Setter} from Lombok to automatically generate getter and setter methods.
  * The table name for this entity is specified using {@link Table} annotation.
